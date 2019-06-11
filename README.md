@@ -12,6 +12,6 @@ must be shared).
 The clustered quartz scheduler will make sure the job be executed only once in an auto scaled environment.
 
 ## Stack:
-Spring Boot
-Quartz
-MySQL (try docker: https://hub.docker.com/_/mysql/)
+* Spring Boot
+* Quartz
+* MySQL (try docker: https://hub.docker.com/_/mysql/)
